@@ -5,7 +5,7 @@ http://simplongilabert.alwaysdata.net
 
 
 Recommandations pour améliorer le référencement du site internet :
- - Configurez du plugin yoast SEO
+ - Configurez le plugin yoast SEO
  - Ajoutez l'attribut alt à vos images
  - Optimisez les articles avec un mot-clé
  - Remplissez la balise meta description
